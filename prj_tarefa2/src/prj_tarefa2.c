@@ -77,9 +77,9 @@ void calcularareadoscomandos() {
 }
 
 int main (void) {
-	//mostrarnumerosparesmultiplosdetres();
-	//calcularsomaemedia();
-	//calcularperimetroeareadocirculo();
+	mostrarnumerosparesmultiplosdetres();
+	calcularsomaemedia();
+	calcularperimetroeareadocirculo();
 	calcularareadoscomandos();
 }
 
